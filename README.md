@@ -1,1 +1,1 @@
-# A simple blogging website
+# A simple Newsletter website
